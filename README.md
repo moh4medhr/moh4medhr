@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moh4medhr
-- 👀 I’m interested in ... Data Entery and Software developing
 - I'm Software Engineering Student
-- 🌱 I’m currently learning ... Excel and Java
+- 👀 I’m interested in ... learning more and more about this field.
+- 🌱 I’m currently learning ... OOP, Algorithms and Data Structure
 - 💞️ I’m looking to collaborate on ... Any project can give me experience
 - 📫 How to reach me? ... ig: moh4med_hr WhatsApp: +90 501 356 7001  
 
